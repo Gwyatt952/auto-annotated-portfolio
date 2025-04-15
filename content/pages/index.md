@@ -33,6 +33,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |+
+      <div style="text-align: center">**SEP GUIDE**</div>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
